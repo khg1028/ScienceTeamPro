@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38e79c5b7deeea54890eed64e3d1dca4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boxSize: {x: 2, y: 0.57}
+  boxSize: {x: 2, y: 0.26}
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
@@ -592,7 +592,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c4a1defaa8ad26344bc8ce23db7f6651, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0

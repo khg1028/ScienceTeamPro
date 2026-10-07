@@ -12,12 +12,6 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 dir;
 
 
-    private void Update()
-    {
-        throw new NotImplementedException();
-    }
-
-
     private void FixedUpdate()
     {
 
